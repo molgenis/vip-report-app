@@ -1,0 +1,9 @@
+@import "bulma/bulma";
+
+.is-transparent {
+  background-color: transparent !important;
+}
+
+input[type=checkbox] {
+  cursor: pointer;
+}
