@@ -11,6 +11,8 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>vip-report-app-frontend</module>
+        <module>vip-report-app-db</module>
         <module>vip-report-app-backend</module>
     </modules>
 </project>
